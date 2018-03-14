@@ -1,24 +1,16 @@
 # Here & There
 If you don't know were to go, go here and there.
 
-# Contributors
-Name | Role
-:---|:---
-Kaniz | QA
-Ty | UI/UX
-Reiaz |Tech Lead
-Ashlee | Flex
-Winston | Project Lead
-# Gifs
-![gif1](https://storage.jumpshare.com/preview/6yxZqQKkMo0HZNMHMtU0Brl9PwTMvcABFYPFhoH5pRLQBTAP8yZHqmvGuP23s-A8Jgg9C_UavsiM1U2uRtwdAd0Iq-_ZMIwlJNqsu6s4bO0F1kR3dMUjedqC16uBUu85)
+## Overview
+Here and There is an app that lets you search and browse for nearby venues. It utilizes MapKit and CoreLocation frameworks.
+
+|testing|
+|:-------------:|
+|<img src=https://media.giphy.com/media/26DNdoCeEaDUQiqty/giphy.gif>|
 
 
-![gif2](https://storage.jumpshare.com/preview/Ir4YnZl3PUcAYOjfhIVfy24ZHyvmFAxPoH7mYRCwT-0rcMeYaU4Xd5nIco8VjSbS4OfYrgrYF_SLsE9FLZENvFNlSmh0egFbdyHzE6LvoMAI4av1wcwKsmUDuTGzHRrg)
-
-# Overview
-Here and There is a FourSquare like app that uses MapKit and CoreLocation frameworks.
-
-# What's inside
+## Features
+Users can: 
     - Search for a venue by food type and location
     - Toggle between a map view of venues and a list view of venues
     - Create collections and save venues to view again later
@@ -29,3 +21,50 @@ Here and There is a FourSquare like app that uses MapKit and CoreLocation framew
 
     Venue Search: GET https://api.foursquare.com/v2/venues/search
     Venue Photos: GET https://api.foursquare.com/v2/venues/VENUE_ID/photos
+    
+    
+## Installation
+
+### CocoaPods
+CocoaPods is a dependency manager for Cocoa projects. You can install it with the following command:
+
+`$ sudo gem install cocoapods`
+
+### Dependencies
+- [SnapKit](http://snapkit.io/docs)
+- [KingFisher](https://github.com/onevcat/Kingfisher)
+- [expanding-collection](https://github.com/Ramotion/expanding-collection)
+- [FAQView](https://github.com/mukeshthawani/FAQView)
+- [Toucan](https://github.com/gavinbunney/Toucan)
+- [Firebase](https://firebase.google.com)
+	- Firebase/Database
+	- Firebase/Storage
+	- Firebase/Core
+
+### How to Install Pods
+To integrate these pods into your Xcode project using CocoaPods, specify it in your Podfile:
+
+```
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '10.0'
+use_frameworks!
+
+target '<Your Target Name>' do
+    pod 'Alamofire',
+    pod 'SnapKit',
+    pod 'KingFisher'
+end
+```
+
+Then, run the following command in Terminal:
+
+`$ pod install`
+
+## Contributors 
+* **Kaniz Ali** - [Github](https://github.com/knzknz)
+* **Ty** - [Github](https://github.com/mrugama)
+* **Reiaz** - [Github](https://github.com/Tristifano)
+* **Ashlee** - [Github]()
+* **Winston** - [Github]()
+    
+
