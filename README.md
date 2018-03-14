@@ -1,5 +1,7 @@
 # Here & There
-If you don't know were to go, go here and there.
+### My First Group Project!
+
+"If you don't know were to go, go here and there."
 
 ## Overview
 Here and There is an app that lets you search and browse for nearby venues. It utilizes MapKit and CoreLocation frameworks.
@@ -11,11 +13,11 @@ Here and There is an app that lets you search and browse for nearby venues. It u
 
 ## Features
 Users can: 
-    - Search for a venue by food type and location
-    - Toggle between a map view of venues and a list view of venues
-    - Create collections and save venues to view again later
-    - Create a tip  about a venue
-    - Receive directions to a venue
+- Search for a venue by food type and location
+- Toggle between a map view of venues and a list view of venues
+- Create collections and save venues to view again later
+- Create a tip  about a venue
+- Receive directions to a venue
     
 # Endpoints
 
@@ -62,8 +64,8 @@ Then, run the following command in Terminal:
 
 ## Contributors 
 * **Kaniz Ali** - [Github](https://github.com/knzknz)
-* **Ty** - [Github](https://github.com/mrugama)
-* **Reiaz** - [Github](https://github.com/Tristifano)
+* **Ty** - [Github]()
+* **Reiaz** - [Github]()
 * **Ashlee** - [Github]()
 * **Winston** - [Github]()
     
