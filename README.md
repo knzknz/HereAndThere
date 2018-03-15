@@ -60,7 +60,7 @@ Then, run the following command in Terminal:
 ## Contributors 
 * **Kaniz Ali** - [Github](https://github.com/knzknz)
 * **Ty** - [Github](https://github.com/kuuhaku0)
-* **Reiaz** - [Github]()
+* **Reiaz** - [Github](https://github.com/reiaz-gafar)
 * **Ashlee** - [Github]()
 * **Winston** - [Github](https://github.com/wsmaragh)
     
