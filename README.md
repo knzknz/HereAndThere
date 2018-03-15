@@ -62,6 +62,6 @@ Then, run the following command in Terminal:
 * **Ty** - [Github](https://github.com/kuuhaku0)
 * **Reiaz** - [Github]()
 * **Ashlee** - [Github]()
-* **Winston** - [Github]()
+* **Winston** - [Github](https://github.com/wsmaragh)
     
 
