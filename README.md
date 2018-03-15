@@ -34,14 +34,9 @@ CocoaPods is a dependency manager for Cocoa projects. You can install it with th
 
 ### Dependencies
 - [SnapKit](http://snapkit.io/docs)
-- [KingFisher](https://github.com/onevcat/Kingfisher)
-- [expanding-collection](https://github.com/Ramotion/expanding-collection)
-- [FAQView](https://github.com/mukeshthawani/FAQView)
-- [Toucan](https://github.com/gavinbunney/Toucan)
-- [Firebase](https://firebase.google.com)
-	- Firebase/Database
-	- Firebase/Storage
-	- Firebase/Core
+- [Alamofire](https://github.com/Alamofire/Alamofire)
+- [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)
+
 
 ### How to Install Pods
 To integrate these pods into your Xcode project using CocoaPods, specify it in your Podfile:
